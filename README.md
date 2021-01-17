@@ -1,6 +1,6 @@
 # CNN_Identify_Apparel_MNIST_Dataset
 
-Find best CNN model using tunersearch and use it to predict correct apparel from apparel images
+Find best CNN model using kerastuner and use it to predict correct apparel from apparel images. We will use GoogleCollab in-order to run model in GPU.
 
 Download MNIST Apparal dataset from below link:
 
